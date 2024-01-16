@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65a38b86a535cab6530a8a36"
+  },
+  "nomM": "lalaina be",
+  "prenomM": "olive",
+  "numeroM": "0329444429",
+  "emailM": "lalaina@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65a38b9fa535cab6530a8a37"
+  },
+  "nomM": "degras",
+  "prenomM": "amigos",
+  "numeroM": "+261387942593",
+  "emailM": "degras@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65a38baba535cab6530a8a38"
+  },
+  "nomM": "ravao",
+  "prenomM": "brunel",
+  "numeroM": "0329683729",
+  "emailM": "brunel@gmail.com"
+}]
